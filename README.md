@@ -11,9 +11,9 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Abin Jacob (AJB)</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajb61233216&label=Profile%20views&color=0e75b6&style=flat" alt="ajb61233216" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abinjacob-AJB&label=Profile%20views&color=0e75b6&style=flat" alt="abinjacob-AJB" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajb61233216" alt="ajb61233216" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abinjacob-AJB" alt="abinjacob-AJB" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project**
 
